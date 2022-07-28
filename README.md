@@ -13,16 +13,16 @@ The main subject was UFO analysis data extracted and filtered by aspects like Ci
 
 Main elements of the webpage consisted on Title, UFO information, Filtering boxes that allowed user input and table displaying results as seen in the following screenshot. 
 
-![]()
+![Main](Resources/UFOWebpagemain.png)
 
 Filtering options where, Date, City, State, Country, and Shape of the UFO reported. 
 
-![]()
+![Filters Options](Resources/Filters.png)
 
 As seen, input runs without issues allowing and filtering with each condition. 
-![]()
+![City Filter test](Resources/city.png)
 
-![]()
+![Shape Filter Test](Resources/shape.png)
 
 ## Summary
 
